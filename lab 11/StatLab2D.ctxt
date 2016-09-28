@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=StatLab2D(int[][])
+comment1.params=
+comment1.target=void\ loadRandom2D()
+comment2.params=
+comment2.target=void\ printArray2D()
+comment3.params=
+comment3.target=void\ sortArray2D()
+comment4.params=
+comment4.target=void\ printArray()
+comment5.params=
+comment5.target=double\ getMean2D()
+numComments=6
